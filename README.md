@@ -3,7 +3,7 @@
 ### An aspiring Software Developer passionate about learning and exploring technology.
 
 - 🌱 I’m currently learning Artificial Intelligence, Blockchain and Cloud Computing.
-- 👨‍💻 Checkout my Portfolio: [your-portfolio-link](https://prakansh-portfolio.web.app/)
+- 👨‍💻 Checkout my Portfolio: (https://prakansh-portfolio.web.app/)
 - 📫 Reach me at **vijax01@gmail.com**
 
 ---
