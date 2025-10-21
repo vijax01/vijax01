@@ -2,16 +2,15 @@
 
 ### An aspiring Software Developer passionate about learning and exploring technology.
 
-- 🌱 I’m currently learning **[Your Topics, e.g., MERN Stack, Machine Learning, etc.]**
-- 👨‍💻 Checkout my Portfolio: [your-portfolio-link](https://your-portfolio-link.com)
-- 📫 Reach me at **yourmail@example.com**
+- 🌱 I’m currently learning Artificial Intelligence, Blockchain and Cloud Computing.
+- 👨‍💻 Checkout my Portfolio: [your-portfolio-link](https://prakansh-portfolio.web.app/)
+- 📫 Reach me at **vijax01@gmail.com**
 
 ---
 
 ### Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-linkedin-link)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](your-leetcode-link)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](your-github-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prakansh-kumar-8b4493386/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vijax01)
 
 ---
 
@@ -27,5 +26,5 @@
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vijax01&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijax01&layout=compact&theme=dark)
