@@ -1,4 +1,4 @@
-# Hello 👋, I'm [Your Name]
+# Hello 👋, I'm Prakansh
 
 ### An aspiring Software Developer passionate about learning and exploring technology.
 
